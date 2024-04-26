@@ -17,7 +17,7 @@ This project is a static website built using HTML, CSS, and JavaScript. It featu
 - Social media links for connecting with the project creators.
 
 # Usage
-1. Clone the repository:
+1. Clone the repository: https://github.com/Anshit-Sony/vit-study-zone.git
 2. Open the 'index.html' file in a web browser to explore the website.
 3. Navigate through the different sections of the website using the navigation bar.
 4. Click on the semester images to access study materials for each semester.
