@@ -2,11 +2,11 @@
 VIT Study Zone is a website aimed at providing resources and information for students of Vellore Institute of Technology (VIT). It offers semester-wise study materials and information about the institution.
 
 # Table of Contents
--Overview
--Features
--Usage
--Contributing
--License
+- Overview
+- Features
+- Usage
+- Contributing
+- License
 
 # Overview
 This project is a static website built using HTML, CSS, and JavaScript. It features a navigation bar, a main content area with semester selection, and social media links. The website is designed to provide easy access to study materials and relevant information for students.
