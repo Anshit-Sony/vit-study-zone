@@ -1,6 +1,9 @@
 # View The Project
 https://sushant0911.github.io/VIT-Study-Zone/
 
+# Source Code
+https://github.com/sushant0911/VIT-Study-Zone
+
 # vit-study-zone
 VIT Study Zone is a website aimed at providing resources and information for students of Vellore Institute of Technology (VIT). It offers semester-wise study materials and information about the institution.
 
